@@ -8,7 +8,9 @@
             "output": "m4ja-controller.json",
             "files":[
                 "curators/m4ja/controller/season-20.json",
-                "curators/m4ja/controller/season-21.json"
+                "curators/m4ja/controller/season-21.json",
+                "curators/m4ja/controller/season-22.json",
+                "curators/m4ja/controller/season-23.json"
             ]
         }
     ]
